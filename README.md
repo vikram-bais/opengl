@@ -6,4 +6,6 @@ OpenGL is the API is typically used to interact with a graphics processing unit 
 more info at this link:
 https://en.wikipedia.org/wiki/OpenGL
 
+obj_loader.py : this contain code for extracting buffer array and index array from .obj file 
   
+main.py: it contain main source code for loading the 3d shape from .obj file in output screen
