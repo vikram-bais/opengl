@@ -9,4 +9,4 @@ https://en.wikipedia.org/wiki/OpenGL
 obj_loader.py : this contain code for extracting buffer array and index array from .obj file 
   
 main.py : it contain main source code for loading the 3d shape or object from .obj file in output screen, 
-                also it contains code for accessing GPU or accelerating GPU for rendering 3d graphics into screen
+          also it contains code for accessing GPU or accelerating GPU for rendering 3d graphics into screen.
